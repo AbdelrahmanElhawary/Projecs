@@ -1,1 +1,1 @@
-# Projecs
+# Projects
